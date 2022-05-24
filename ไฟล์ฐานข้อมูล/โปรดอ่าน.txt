@@ -1,0 +1,2 @@
+นำไฟล์ pointaccountdata.sql 
+import เข้า  phpmyadmin ก่อนนะครับ 
